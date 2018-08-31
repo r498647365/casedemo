@@ -21,7 +21,7 @@ import com.my.object.User;
 
 import lombok.Data;
 
-@RestController
+
 public class Mydemo {
 	@Autowired
 	private SqlSessionTemplate template;
