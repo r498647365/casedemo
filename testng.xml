@@ -6,4 +6,7 @@
       <class name="com.jiekou.cases.LoginCase"/>
     </classes>
   </test> <!-- Test -->
+  <listeners>
+      <listener class-name="com.course.config.ExtentTestNGIReporterListener"/>
+  </listeners>
 </suite> <!-- Suite -->
