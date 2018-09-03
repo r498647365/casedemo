@@ -2,23 +2,23 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="2013" started-at="2018-09-03T05:57:56Z" finished-at="2018-09-03T05:57:58Z">
+  <suite name="Default suite" duration-ms="980" started-at="2018-09-03T07:06:49Z" finished-at="2018-09-03T07:06:50Z">
     <groups>
       <group name="logintrue">
-        <method signature="LoginCase.getlogin()[pri:0, instance:com.jiekou.cases.LoginCase@72d818d1]" name="getlogin" class="com.jiekou.cases.LoginCase"/>
+        <method signature="LoginCase.getlogin()[pri:0, instance:com.jiekou.cases.LoginCase@27c20538]" name="getlogin" class="com.jiekou.cases.LoginCase"/>
       </group> <!-- logintrue -->
     </groups>
-    <test name="Test" duration-ms="2013" started-at="2018-09-03T05:57:56Z" finished-at="2018-09-03T05:57:58Z">
+    <test name="Default test" duration-ms="980" started-at="2018-09-03T07:06:49Z" finished-at="2018-09-03T07:06:50Z">
       <class name="com.jiekou.cases.LoginCase">
-        <test-method status="PASS" signature="before()[pri:0, instance:com.jiekou.cases.LoginCase@72d818d1]" name="before" is-config="true" duration-ms="712" started-at="2018-09-03T13:57:56Z" finished-at="2018-09-03T13:57:56Z">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.jiekou.cases.LoginCase@27c20538]" name="before" is-config="true" duration-ms="464" started-at="2018-09-03T15:06:49Z" finished-at="2018-09-03T15:06:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method status="PASS" signature="getlogin()[pri:0, instance:com.jiekou.cases.LoginCase@72d818d1]" name="getlogin" duration-ms="1260" started-at="2018-09-03T13:57:56Z" finished-at="2018-09-03T13:57:58Z">
+        <test-method status="PASS" signature="getlogin()[pri:0, instance:com.jiekou.cases.LoginCase@27c20538]" name="getlogin" duration-ms="496" started-at="2018-09-03T15:06:50Z" finished-at="2018-09-03T15:06:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getlogin -->
       </class> <!-- com.jiekou.cases.LoginCase -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

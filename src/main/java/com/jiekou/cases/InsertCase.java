@@ -18,7 +18,7 @@ import com.my.unitl.Unitl;
  * 开发验证insert接口的case，只需要验证返回结果和去数据库查看就行
  */
 public class InsertCase {
-	private String url;
+	/*private String url;
 	@Test(dependsOnGroups= {"logintrue"})
 	public void insert() throws IOException {
 		//获得url
@@ -35,5 +35,5 @@ public class InsertCase {
 		Assert.assertEquals(statusCode, 200);
 		Assert.assertEquals(string, "添加成功");
 		Assert.assertEquals(selectOne2, 6);
-	}
+	}*/
 }
