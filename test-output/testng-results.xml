@@ -2,19 +2,19 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="2715" started-at="2018-09-03T02:32:19Z" finished-at="2018-09-03T02:32:22Z">
+  <suite name="Suite" duration-ms="2013" started-at="2018-09-03T05:57:56Z" finished-at="2018-09-03T05:57:58Z">
     <groups>
       <group name="logintrue">
-        <method signature="LoginCase.getlogin()[pri:0, instance:com.jiekou.cases.LoginCase@271053e1]" name="getlogin" class="com.jiekou.cases.LoginCase"/>
+        <method signature="LoginCase.getlogin()[pri:0, instance:com.jiekou.cases.LoginCase@72d818d1]" name="getlogin" class="com.jiekou.cases.LoginCase"/>
       </group> <!-- logintrue -->
     </groups>
-    <test name="Test" duration-ms="2715" started-at="2018-09-03T02:32:19Z" finished-at="2018-09-03T02:32:22Z">
+    <test name="Test" duration-ms="2013" started-at="2018-09-03T05:57:56Z" finished-at="2018-09-03T05:57:58Z">
       <class name="com.jiekou.cases.LoginCase">
-        <test-method status="PASS" signature="before()[pri:0, instance:com.jiekou.cases.LoginCase@271053e1]" name="before" is-config="true" duration-ms="1162" started-at="2018-09-03T10:32:19Z" finished-at="2018-09-03T10:32:20Z">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.jiekou.cases.LoginCase@72d818d1]" name="before" is-config="true" duration-ms="712" started-at="2018-09-03T13:57:56Z" finished-at="2018-09-03T13:57:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method status="PASS" signature="getlogin()[pri:0, instance:com.jiekou.cases.LoginCase@271053e1]" name="getlogin" duration-ms="1532" started-at="2018-09-03T10:32:20Z" finished-at="2018-09-03T10:32:22Z">
+        <test-method status="PASS" signature="getlogin()[pri:0, instance:com.jiekou.cases.LoginCase@72d818d1]" name="getlogin" duration-ms="1260" started-at="2018-09-03T13:57:56Z" finished-at="2018-09-03T13:57:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getlogin -->

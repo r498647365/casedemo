@@ -7,6 +7,6 @@
     </classes>
   </test> <!-- Test -->
   <listeners>
-      <listener class-name="com.course.config.ExtentTestNGIReporterListener"/>
+      <listener class-name="com.my.unitl.ExtentTestNGIReporterListener"/>
   </listeners>
 </suite> <!-- Suite -->
